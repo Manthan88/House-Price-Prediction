@@ -1,7 +1,7 @@
 # House-Price-Prediction
 A data analysis project to predict the prices of houses in King County
 
-The WHAT
+THE WHAT
 
 This repository includes a data analysis project as part of my course "Introductin to R"
 
@@ -10,7 +10,7 @@ This project is developed using R as the core programming language and Tableau f
 The dataset that we used is taken from Kaggle - https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
 
 
-The WHY
+THE WHY
 
 The purpose of this project was to put to test the learnings and skills related to R specifically exploring the following topics using R
 
