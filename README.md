@@ -9,6 +9,7 @@ This project is developed using R as the core programming language and Tableau f
 
 The dataset that we used is taken from Kaggle - https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
 
+
 The WHY
 
 The purpose of this project was to put to test the learnings and skills related to R specifically exploring the following topics using R
@@ -28,6 +29,7 @@ Some sample question examples which aligned with the aforementioned topics that 
 - Cluster the data using these columns: bedrooms, bathrooms, sqft_living, floors, waterfront, price. Name the clusters.
 - Does the model improve if instead of a linear model we use a neural network?
 - What is the expected average home price for January 2016 based on the average home prices from previous months?
+
 
 CREDITS
 
